@@ -23,9 +23,8 @@
 - Elasticsearch-6.3
 - nginx-1.14.2
 - FastDFS - 5.0.8
-- MyCat
 - Thymeleaf
-- mysql 5.6
+- mysql 5.7
 
 启动项目前需要添加微信以及阿里云短信方面的秘钥以及相关参数
 1. `leyou\leyou-order\src\main\resources\application.yml`中关于微信支付的相关参数的
